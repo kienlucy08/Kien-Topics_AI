@@ -243,6 +243,7 @@ def test_tweet_processing():
 
 def main():
     test_tweet_processing()
+    print("here")
 
 if __name__ == '__main__':
     main()
